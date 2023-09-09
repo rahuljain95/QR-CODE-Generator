@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(4, 25, 25);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+    width: 322px;
+    text-align: center;
+    margin-left: 40%;
+    background-color: #fff;
+    padding: 16px;
+}
+
+
+input {
+    width: 280px;
+    padding: 8px;
+    font-size: 20px;
+    border: 1px solid rgb(114, 113, 113);
+}
+
+button {
+    margin-top: 4%;
+    font-size: 25px;
+    width: 308px;
+    height: 42px;
+    background-color: rgb(5, 103, 251);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+}
